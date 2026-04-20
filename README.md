@@ -1,2 +1,2 @@
-# dune-defi-hacks-2026
+# defihacks April 2026
 hacks , are we cooked? uh
